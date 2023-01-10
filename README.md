@@ -38,36 +38,25 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 > This is webpage built for Microverse it only contains header.
 
-**[your_project__name]** Hello Microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
-HTML
-CSS
+-HTML
+-CSS
 
 <!-- GETTING STARTED -->
 
@@ -79,7 +68,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-To get access to this repository, move to "Hello-world" repository, and then either use [ssh] or [https] to clone onto your local machine. To clone checkout this documentation on github (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) You can view this project with you browser
+To get access to this repository, move to "Hello-world" repository, and then either use [ssh] or [https] to clone onto your local machine. To clone checkout this documentation on github (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) You can view this project with you browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
